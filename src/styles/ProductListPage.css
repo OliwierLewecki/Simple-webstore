@@ -1,0 +1,18 @@
+.products h2 {
+    margin-top: 20px;
+}
+
+.products ul{
+    list-style: inside;
+    padding-left: 10px;
+}
+
+.products li {
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.products a{
+    text-decoration: none;
+    color: black;
+}
